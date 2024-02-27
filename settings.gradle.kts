@@ -6,7 +6,7 @@
  */
 
 plugins {
-    id("dev.aga.gradle.version-catalog-generator") version "1.1.2"
+    id("dev.aga.gradle.version-catalog-generator") version "1.2.0"
 }
 
 rootProject.name = "release-notes-test"
